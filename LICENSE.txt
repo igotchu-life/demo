@@ -7,3 +7,5 @@ just some updates
 adding features for ver 2.0
 
 adding updates on branch
+
+practicing stashing
