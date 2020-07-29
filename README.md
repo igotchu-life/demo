@@ -4,6 +4,7 @@ This is a simple readme file
 
 final commit
 
-README ver 2.0
+##README ver 2.1 (beta)
 
-#this is code that doesn't work
+code that kinda works
+
